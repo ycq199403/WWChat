@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\menu\\delete_contact.xml"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\menu\\remove_from_blacklist.xml"
+    }
+]
