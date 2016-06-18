@@ -228,6 +228,10 @@
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\layout\\row_chat_history.xml"
     },
     {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\popu_show_avatar.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\layout\\popu_show_avatar.xml"
+    },
+    {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_robots.xml",
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\layout\\row_robots.xml"
     },

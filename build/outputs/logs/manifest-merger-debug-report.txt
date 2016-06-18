@@ -132,7 +132,7 @@ ADDED from F:\easemob-sdk-2\examples\ChatDemoUI\AndroidManifest.xml:41:5-362:25
 	android:icon
 		ADDED from F:\easemob-sdk-2\examples\ChatDemoUI\AndroidManifest.xml:44:9-45
 	android:name
-		ADDED from F:\easemob-sdk-2\examples\ChatDemoUI\AndroidManifest.xml:42:9-59
+		ADDED from F:\easemob-sdk-2\examples\ChatDemoUI\AndroidManifest.xml:42:9-47
 activity#cn.ucai.superwechat.activity.MainActivity
 ADDED from F:\easemob-sdk-2\examples\ChatDemoUI\AndroidManifest.xml:46:9-52:20
 	android:windowSoftInputMode

@@ -1,6 +1,58 @@
 [
     {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_icon.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_icon.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_fujin.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_fujin.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_friends.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_friends.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\friends_icon.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\friends_icon.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_gouwu.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_gouwu.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\mobile.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\mobile.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_yaoyiyao.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_yaoyiyao.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_youxi.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_youxi.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_pressed.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_pressed.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_piaoliuping.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_piaoliuping.png"
+    },
+    {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\empty_photo.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_erweima.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_erweima.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\find_normal.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\find_normal.png"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\geek.png",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable-nodpi\\geek.png"
     }
 ]

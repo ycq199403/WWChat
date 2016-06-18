@@ -192,6 +192,10 @@
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\checkbox_bg_gray_selector.xml"
     },
     {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pop_avatar.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\selector_pop_avatar.xml"
+    },
+    {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed_shape.xml",
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\btn_gray_pressed_shape.xml"
     },
@@ -208,12 +212,12 @@
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\photogrid_list_selector.xml"
     },
     {
-        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
-        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\tab_chat_bg.xml"
-    },
-    {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\tab_chat_bg.xml"
     },
     {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_add_btn.xml",
@@ -232,16 +236,16 @@
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\chat_press_speak_btn.xml"
     },
     {
+        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
+        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\call_hangup_bg.xml"
+    },
+    {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\context_menu_item_bg.xml",
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\context_menu_item_bg.xml"
     },
     {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_selector.xml",
         "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\chat_video_selector.xml"
-    },
-    {
-        "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
-        "source": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\res\\drawable\\call_hangup_bg.xml"
     },
     {
         "merged": "F:\\easemob-sdk-2\\examples\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\roominfo_add_btn.xml",
